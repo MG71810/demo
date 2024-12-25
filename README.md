@@ -1,3 +1,3 @@
 # demo
 This is my first Git repository                   
-Author - Mayank Gupta 
+Author - Mayank (DTU)
